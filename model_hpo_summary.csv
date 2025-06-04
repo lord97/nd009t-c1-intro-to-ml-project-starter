@@ -1,0 +1,4 @@
+model,hpo1,hpo2,hpo3,score
+initial,,,,1.79608
+add_features,,,,0.53143
+hpo,learning_rate; activation; dropout_prob,num_boost_round; num_leaves,n_estimators; max_depth; min_samples_leaf; max_features,0.51194
